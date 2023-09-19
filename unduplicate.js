@@ -27,8 +27,6 @@
         }
     }
     $(document).ready(function () {
-      console.log('Custom script is running.');
       findAndFixDuplicateIds();
-      console.log("yeet");
     });
   })(jQuery);
